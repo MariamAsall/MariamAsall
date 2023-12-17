@@ -22,5 +22,3 @@
 # 💫 About Me:
  🌐 Constantly expanding my knowledge in machine learning, deep learning, and data analytics.<br> 💻 Love diving into data with tools like Pandas and NumPy.<br> 🚀Actively seeking opportunities to enhance my skills in areas like natural language processing, computer vision, and big data.<br>💻  Interested in Oracle SQL technologies and their impact on modern enterprise solutions
 
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
